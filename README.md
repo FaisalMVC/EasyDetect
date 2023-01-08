@@ -2,9 +2,9 @@
 This project makes airline journey easier, and helps decision makers make the right decision. This is our graduation project (CS492).
 
 # Team members 
-Faisal Alharbi
-Abdulmhsen Albareed
-Osama Alamri
++ Faisal Alharbi
++ Abdulmhsen Albareed
++ Osama Alamri
 
 # Features 
 Face recognition to know passengers idintity to use as boarding pass.
