@@ -5,7 +5,7 @@ This project makes airline journey easier, and helps decision makers make the ri
 + Faisal Alharbi
 + Abdulmhsen Albareed
 + Osama Alamri
-
++ Supervised by Dr. Tawfeeq Alsanoosy
 # Features 
 + Face recognition to know passengers idintity to use as boarding pass.
 + Object detection is used to detect people, count them, and determine who is smoking in a no-smoking zone and count them as well.
